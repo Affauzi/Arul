@@ -1,2 +1,2 @@
-# Arul
+Program C
 Perhitungan Pajak
